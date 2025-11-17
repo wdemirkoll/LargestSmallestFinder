@@ -10,15 +10,6 @@ A simple C++ console program that takes a series of integers from the user, find
   - 📈 The largest number  
 - Beginner-friendly and clean C++ code  
 
-## 🧠 Example Output
-1th number: 10
-2th number: -4
-3th number: 22
-4th number: 0
-
-The smallest number: -4
-The largest number: 22
-
 ## ⚙️ How to Run
 1. Clone or download this project:  
    `git clone https://github.com/wdemirkoll/LargestSmallestFinder.git`
